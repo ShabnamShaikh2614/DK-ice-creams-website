@@ -1,0 +1,6 @@
+{
+  "name": "DK Ice Cream & Juice Center - Solapur",
+  "description": "Popular local ice cream, fresh juice, royal falooda, and mastani center located at Sainath Nagar, Hotgi Road near Asra Chowk, Solapur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
